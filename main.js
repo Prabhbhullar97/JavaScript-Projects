@@ -1,2 +1,3 @@
-window.alert("Hello! This alert is from window.alert()");
+document.write("Hello! This message is written using document.write()");
+
 
